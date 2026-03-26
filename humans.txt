@@ -1,0 +1,8 @@
+Developer: Jan Jędrusiak
+Contact: jedrusiakjan07@gmail.com   
+From: Kraków, Poland
+
+/* SITE */
+Last update: 2024/03/22
+Language: Polish
+Doctype: HTML5
